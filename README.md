@@ -50,10 +50,20 @@ DIFFERENTIATOR
 <img width="757" height="447" alt="image" src="https://github.com/user-attachments/assets/3bb38583-c020-43ad-8b15-c03f1f545842" />
 
 TABULATION:
+![WhatsApp Image 2025-11-21 at 19 28 40_dcb3ac78](https://github.com/user-attachments/assets/d4251a22-a951-493e-a077-6fb496d760c3)
+
+
+
 
 
 GRAPH:
+![WhatsApp Image 2025-11-21 at 19 30 20_31320e8d](https://github.com/user-attachments/assets/9848a270-2fd8-480f-8089-ccf5df62cfca)
+
+![WhatsApp Image 2025-11-21 at 19 31 11_a8dc8d16](https://github.com/user-attachments/assets/00e81c58-45b0-4cc1-9ea6-75c2504f5b2b)
+
+
 
 
 RESULT:
+Thus an Differentiator Using Op amp are designed and their performance was successfully tested using OP AMP IC 741.
 
